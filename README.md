@@ -17,7 +17,7 @@ OLED -> Arduino:
 - RES -> D13
 - DC -> D11
 
-LED -> Arduino
+LED -> Arduino:
 - 1 Green -> D6
 - 2 Green -> D5
 - 3 Yellow -> D4
